@@ -1,0 +1,52 @@
+body { 
+    appearance:;
+    background:#743c84
+  }
+  .todo-cont {
+    font-style: italic; 
+    font-family : fangsong;
+    font-size: x-large;
+    font-color: White
+    
+  }
+  .todo-cont {
+      margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    border: 2px black;
+  }
+  
+  .divider {
+    margin-bottom: 2rem;
+  }
+  
+  .todoList {
+    min-height: 3rem;
+    background:  #533b84;
+    margin: 0 rem;
+  }
+  
+  .todoList-cont {
+    text-align: left;
+    font-style: normal;
+    font-family : monospace;
+    font-size: x-large
+  }
+  
+  .todoList-cont h4 {
+    margin-left: 0rem;
+  }
+  
+  .todoList {
+    display: flex;
+    flex-flow: column;
+    text-shadow: ;
+    
+  }
+  
+  .li_btn {
+    float: right;
+    margin-right: .5rem;
+    background:#71188a;
+    
+  }
